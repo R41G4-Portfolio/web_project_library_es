@@ -275,10 +275,11 @@
 
 .person_name_burbidge {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
-  top: 0px;
-  right: 0px;
-  left: 0px;
+  top: 96px;
+  right: 125px;
+  /*left: 0px;
   bottom: 0px;
+  */
 }
 
 .person_name_cannon {
@@ -300,8 +301,10 @@
 .person_name_tarter {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   top: 79px;
+  /*
   right: 0px;
   bottom: 0px;
+  */
   left: 159px;
 }
 
